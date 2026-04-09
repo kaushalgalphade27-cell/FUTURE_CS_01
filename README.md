@@ -1,22 +1,30 @@
 # 🔐 Cyber Security Internship Projects
 
-This repository contains all tasks completed during my Cyber Security Internship.
+## 👨‍💻 Name: Kaushal Galphade
 
-## 📁 Tasks
+## 📚 Domain: Cyber Security
 
-### Task 1: Vulnerability Assessment
+---
 
-* Tools: Nmap, OWASP ZAP
-* Objective: Identify vulnerabilities in a website
+## 📁 Tasks Completed
 
-### Task 2: Phishing Email Detection
+### 🔹 Task 1: Vulnerability Assessment
 
-* Objective: Analyze phishing, safe, and suspicious emails
+* Tool: Nmap, OWASP ZAP
+* Performed scanning on vulnerable website
+* Identified security issues
 
-### Task 3: API Security Risk Analysis
+### 🔹 Task 2: Phishing Email Detection
+
+* Analyzed phishing, safe and suspicious emails
+* Identified fake links and email patterns
+
+### 🔹 Task 3: API Security Testing
 
 * Tool: Postman
-* Objective: Identify API security risks
+* Tested API responses and data exposure
+
+---
 
 ## 🛠 Tools Used
 
@@ -25,6 +33,10 @@ This repository contains all tasks completed during my Cyber Security Internship
 * OWASP ZAP
 * Postman
 
+---
+
 ## 📌 Conclusion
 
-These tasks helped me gain practical knowledge in cybersecurity including vulnerability scanning, phishing detection, and API security.
+This internship helped me gain practical knowledge in cybersecurity including vulnerability scanning, phishing detection, and API security.
+
+---
